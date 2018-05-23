@@ -1,7 +1,9 @@
 .idea/**/workspace.xml
-/.idea/compiler.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/encodings.xml
-/java-demos-parent.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/libraries/
+**/*.iml
+**/target
